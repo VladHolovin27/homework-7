@@ -1,0 +1,49 @@
+.box {
+  width: 290px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.box-img {
+  width: 290px;
+}
+
+.box-text {
+  padding: 24px 15px 24px 15px;
+}
+
+.box-title {
+  margin: 0;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #6f7d66;
+  margin-bottom: 18px;
+}
+
+.box-title2 {
+  margin: 0;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  color: #6f7d66;
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+
+.box-details {
+  margin: 0;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-size: 20px;
+  color: #6f7d66;
+  margin-bottom: 18px;
+}
+
+.box-btn {
+  display: block;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  background-color: goldenrod;
+  text-decoration: none;
+  color: aliceblue;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 15px 5px 15px 5px;
+}
